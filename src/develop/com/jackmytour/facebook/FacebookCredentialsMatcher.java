@@ -14,6 +14,46 @@ public class FacebookCredentialsMatcher implements CredentialsMatcher {
 		if(info instanceof FacebookAuthenticationInfo){
 			return true;
 		}
+		if(info instanceof FacebookAuthenticationInfo){
+			return true;
+		}
+		if(info instanceof FacebookAuthenticationInfo){
+			return true;
+		}
+		if(info instanceof FacebookAuthenticationInfo){
+			return true;
+		}
+		if(info instanceof FacebookAuthenticationInfo){
+			return true;
+		}
+		if(info instanceof FacebookAuthenticationInfo){
+			return true;
+		}
+		if(info instanceof FacebookAuthenticationInfo){
+			return true;
+		}
+		if(info instanceof FacebookAuthenticationInfo){
+			return true;
+		}
+		if(info instanceof FacebookAuthenticationInfo){
+			return true;
+		}
+		if(info instanceof FacebookAuthenticationInfo){
+			return true;
+		}if(info instanceof FacebookAuthenticationInfo){
+			return true;
+		}
+		if(info instanceof FacebookAuthenticationInfo){
+			return true;
+		}
+		if(info instanceof FacebookAuthenticationInfo){
+			return true;
+		}
+		if(info instanceof FacebookAuthenticationInfo){
+			return true;
+		}if(info instanceof FacebookAuthenticationInfo){
+			return true;
+		}
 		return false;
 	}
  
